@@ -3,8 +3,11 @@
     align-items: flex-start;
     transition: all 0.7s;
   }
-  .window{
+.window{
     overflow: hidden;
     width: 260px;
   }
+.red{
+  color: red;
+}
  
