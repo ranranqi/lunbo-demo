@@ -1,0 +1,10 @@
+.images{
+    display: flex;
+    align-items: flex-start;
+    transition: all 0.7s;
+  }
+  .window{
+    overflow: hidden;
+    width: 260px;
+  }
+ 
